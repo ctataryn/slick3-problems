@@ -1,0 +1,41 @@
+# Editor Droppings #
+####################
+.idea
+project
+.idea_modules
+.classpath
+.project
+.metadata
+.cache*
+bin
+.history
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Tag files produced by exuberant ctags #
+#########################################
+TAGS
+!TAGS/
+tags
+!tags/
+# MISC
+#########################################
+rest/.history
+rest/.settings/org.scala-ide.sdt.core.prefs
+rest/.tmpBin
+web/html/img/mqdefault.jpg
+web/html/img/mqdefault2.jpg
+web/html/img/mqdefault3.jpg
+web/html/img/mqdefault4.jpg
+web/html/img/mqdefault5.jpg
+target
+rest/log
+log/crowdscriber.log
+log/crowdscriber.log.*
+*.swp
